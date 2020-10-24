@@ -1,4 +1,4 @@
-package com.human.dto;
+package com.human.ex;
 //20_3
 public class Humanss {
 		public static void main(String[] args) {

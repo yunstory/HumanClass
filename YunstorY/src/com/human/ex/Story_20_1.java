@@ -1,7 +1,7 @@
 package com.human.ex;
 
 //사용자 정의 데이터 클래스 정의 
-class Human{
+class Humanㅜ{
 	//public 어디서든 호환
 		public String name = "";
 		public int age = 0;
@@ -14,7 +14,7 @@ public class Story_20_1 {
 		
 		
 		// 사용을 위한 클래스 선언
-		Human h1 = new Human();
+		Humanㅜ h1 = new Humanㅜ();
 		// 클래스의 데이터 값 할당
 		h1.name = "yuns";
 		h1.age = 23;
@@ -31,7 +31,7 @@ public class Story_20_1 {
 		
 		
 		
-		Human h2 = new Human();
+		Humanㅜ h2 = new Humanㅜ();
 		// 클래스의 데이터 값 할당
 		h2.name = "yunz";
 		h2.age = 24;

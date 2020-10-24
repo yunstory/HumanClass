@@ -9,7 +9,7 @@ public class Story_20_3 {
 		
 		
 		// 사용을 위한 클래스 선언
-		com.human.dto.Humanss h1 = new com.human.dto.Humanss();
+		Humans h1 = new Humans();
 		// 클래스의 데이터 값 할당
 		h1.name = "yuns";
 		h1.age = 23;
