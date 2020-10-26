@@ -8,7 +8,7 @@ public class Car {
 	public String company="";
 	public int maxSpeed=0;
 	public String model="";
-	
+	public int price =0;
 	
 	}
 	
