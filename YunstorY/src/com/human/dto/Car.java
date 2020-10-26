@@ -2,13 +2,15 @@ package com.human.dto;
 
 public class Car {
 
+
+	public String color="";
+	public Tire tire=new Tire();
+	public String company="";
+	public int maxSpeed=0;
+	public String model="";
 	
-	public String company="Hyundal";
-	public String model="GenesisGv80";
-	public String color="BrunswickGreen";
-	public int price=100000000;
+	
+	}
+	
 	
 
-	
-	
-}

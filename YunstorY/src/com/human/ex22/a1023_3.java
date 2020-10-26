@@ -25,7 +25,7 @@ public class a1023_3 {
 	
 //	public static void function1() {
 //		System.out.println("안녕하세요");
-//		//return값이 없어서 return생략됨
+//		//return값이 없어서 return생략가능함
 //	}
 //
 //	
@@ -49,6 +49,25 @@ public class a1023_3 {
 //		function2(12);
 //		
 //	}
+	
+	//중간에문제하나빠짐!
+
+//	public static void function3(int a) {
+//	//매개변수도 있고 리턴값도 있는 함수
+//		int returnValue=a+b;
+//		return returnValue;
+//	}
+//
+//	public static void main(String[] args) {
+//		int a=function4(5,3);
+//		System.out.println(a);
+//		System.out.println(function4(5,3));
+//	}
+//	
+	
+	
+	
+
 	
 	
 	public static void function1(int a) {

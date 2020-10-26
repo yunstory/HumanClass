@@ -1,6 +1,8 @@
 package com.human.ex22;
 import com.human.dto.*;
 
+import dto.Car;
+
 public class Eaxample {
 
 	public static void main(String[] args) {
